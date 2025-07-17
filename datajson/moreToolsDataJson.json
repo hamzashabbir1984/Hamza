@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1000,
+    "iconUrl": "https://lh3.googleusercontent.com/VgyorR_DJ_X0Sjzyo9UwHs8TXeqZbpXvwRzvVtEJu80BOkiSoVA9k_tZZzejDtG5hPSRiqdGYTe-Rkq0rKmqHEQHHQ=s60",
+    "pluginDescriptor": "WhatsApp Group Finder-Group Link Scraper",
+    "tags": [
+      {
+        "text": "new",
+        "type": "danger"
+      }
+    ],
+    "linkUrl": "https://chromewebstore.google.com/detail/pagpkdoefaimfhoffdcgflomhnjpfiil"
+  },
+  {
+    "id": 1001,
+    "iconUrl": "https://lh3.googleusercontent.com/fLC1YSIXatYAeP2eVNAGgX6BIo5QAUXuQOa8FWMVjjnnNijNfXiYFZH5qwlrsuob0HAT7gjlO4u1cLN4fnspyhXv=s60",
+    "pluginDescriptor": "WhatsApp warmer: WhatsApp Warm Up, avoid WhatsApp ban",
+    "tags": [
+      {
+        "text": "new",
+        "type": "danger"
+      }
+    ],
+    "linkUrl": "https://chromewebstore.google.com/detail/mbpbholggfgmffkpbmmkbhakkcbmnjkk"
+  },
+  {
+    "id": 1002,
+    "iconUrl": "https://lh3.googleusercontent.com/XF7YXj3jGEFQqtfKYoUiU3mIK_zpeSuILDzGlPAxFXqDdJvyXQs-2Vr7lZMEzyQD7B-fHKBtEK7oXlA1Rl0cWW-mF8A=s60",
+    "pluginDescriptor": "Auto Translate -WhatsApp Translator - Real-time Translate",
+    "tags": [
+      {
+        "text": "new",
+        "type": "danger"
+      }
+    ],
+    "linkUrl": "https://chromewebstore.google.com/detail/kifbmlmhcfecpiidfebchholjeokjdlm"
+  },
+  {
+    "id": 1003, 
+    "iconUrl": "https://lh3.googleusercontent.com/oZnGz-0kkvkXRcTicM8Twfb-Saz8dnu3vG1xrniU14D06Y48vdI2xRr1SpjuNmxDxpc2GmoEtQ6BHdFMFyqv9PasOLs=s60",
+    "pluginDescriptor": "WhatsApp Group Exporter- WhatsApp extractor",
+    "tags": [
+      {
+        "text": "new",
+        "type": "danger"
+      }
+    ],
+    "linkUrl": "https://chromewebstore.google.com/detail/ldodkdnfdpchaipnoklfnfmbbkdoocej"
+  },
+  {
+    "id": 1004,
+    "iconUrl": "https://lh3.googleusercontent.com/UD5hKUS7CUVdwTdgN5OTWZlACGgyePZmDVRgqseOprLLI32it6ud-EESYNoSHms98-ohSW2zPMMcKhXivzfSJlBu=s60",
+    "pluginDescriptor": "WAFilter - Free Check & Verify WA Number",
+    "tags": [
+      {
+        "text": "new",
+        "type": "danger"
+      }
+    ],
+    "linkUrl": "https://chromewebstore.google.com/detail/wa-filter/hhfjicmmlbnmbobgpfmdkodfjkibogog"
+  }
+ 
+]
